@@ -1,0 +1,111 @@
+body
+{
+	
+}
+
+.main
+{
+	margin-left:20%;
+	padding:10px;
+	
+}
+
+.side
+{
+	width:17%;
+	background-color:#bf6b47;
+	padding:10px;
+	position: fixed;
+	top: 0;
+	left:0;
+	height: 100%;
+	border-right: solid #543413 5px;
+	color: #543413;
+}
+
+a
+{
+	text-decoration: none;
+	color: #543413;
+	width: 80%;
+}
+
+a:hover
+{
+	background-color: #lightgray;
+	width: 80%;
+	border: solid #543413 4px;
+	border-radius: 7px;
+}
+
+.hone
+{
+	font-size: 4.3vw;
+	color:#1d403f;
+	font-family: Trebuchet MS;
+	background-color: #ccbce0;
+	border-radius: 10px;
+	border: solid #1d403f 3px;
+	width: 50%;
+	box-shadow:0px 0px 15px #1d403f;
+}
+.htwo
+{
+	font-size: 4.3vw;
+	color:#3c2074;
+	font-family: Trebuchet MS;
+	background-color: #ccbce0;
+	border-radius: 10px;
+	border: solid #614885 3px;
+	width: 50%;
+	box-shadow:0px 0px 15px #5c5067;
+}
+.hthree
+{
+	font-size: 4.3vw;
+	color:#e82923;
+	font-family: Trebuchet MS;
+	background-color: #f7c5c3;
+	border-radius: 10px;
+	border: solid #e82923 3px;
+	width: 50%;
+	box-shadow:0px 0px 15px #e82923;
+}
+
+h1
+{
+	font-size: 3.5vw;
+	color: #5c5067;
+	font-family: Trebuchet MS;
+}
+
+p
+{
+	font-size: 2.4vw;
+	color:#46364c;
+	font-family: Trebuchet MS;
+}
+
+.smh
+{
+	font-size: 3.1vw;
+}
+
+.ssmh
+{
+	font-size: 1.6vw;
+}
+
+img
+{
+	border: solid #543413 3px;
+	border-radius: 4px;
+	margin: 10px;
+	box-shadow:0px 0px 20px #543413;
+}
+span
+{
+	font-size: 2vw;
+	color: #3c2074;
+	font-family: Trebuchet MS;
+}
